@@ -43,3 +43,15 @@ print("Number of Nodes:", G_uni.order())
 print("Number of Edges:", G_uni.size())
 print("Average Degree:", float(G_uni.size())/ G_uni.order())
 
+nx.draw(G_train)
+plt.draw()
+plt.show()
+
+nx.draw(G_test)
+plt.draw()
+plt.show()
+
+nx.draw(G_uni)
+plt.draw()
+plt.show()
+
