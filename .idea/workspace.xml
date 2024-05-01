@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca1c4507-7a1a-4d55-b9d3-98a067c252d0" name="Changes" comment="" />
+    <list default="true" id="ca1c4507-7a1a-4d55-b9d3-98a067c252d0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/full.txt" beforeDir="false" afterPath="$PROJECT_DIR$/full.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +48,7 @@
       <updated>1714527327448</updated>
       <workItem from="1714527328632" duration="310000" />
       <workItem from="1714527649398" duration="291000" />
+      <workItem from="1714528206493" duration="268000" />
     </task>
     <servers />
   </component>
@@ -51,6 +56,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RiceU_Social_Network$create_data.coverage" NAME="create_data Coverage Results" MODIFIED="1714527888890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RiceU_Social_Network$graphing.coverage" NAME="graphing Coverage Results" MODIFIED="1714528472894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RiceU_Social_Network$create_data.coverage" NAME="create_data Coverage Results" MODIFIED="1714528410083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
